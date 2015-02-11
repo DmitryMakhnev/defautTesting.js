@@ -1,0 +1,21 @@
+{
+  "name": "default-testing",
+  "description": "Pack of test utils",
+  "version": "0.0.1",
+  "main": "./src/default-testing.js",
+  "dist": "./dist/",
+  "license": "MIT",
+  "keywords": [
+    "defaultTesting",
+    "test utils"
+  ],
+  "authors": [
+    {
+      "name": "Dmitry Makhnev",
+      "email": "dmitry.ivshin@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "default-lib": "*"
+  }
+}
