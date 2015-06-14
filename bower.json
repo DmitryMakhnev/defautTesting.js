@@ -1,7 +1,7 @@
 {
   "name": "default-testing",
   "description": "Pack of test utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./src/default-testing.js",
   "dist": "./dist/",
   "license": "MIT",
